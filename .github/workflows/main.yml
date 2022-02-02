@@ -25,5 +25,5 @@ jobs:
         uses: rachmari/actions-add-new-issue-to-column@1a459ef92308ba7c9c9dc2fcdd72f232495574a9
         with:
           action-token: ${{ secrets.GITHUB_TOKEN }}
-          project-url: 'https://github.com/rsese/miniature-giggle/projects/1'
+          project-url: 'https://github.com/roberts-sandbox/supreme-happiness/projects/1'
           column-name: 'Triage'
